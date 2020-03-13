@@ -3,7 +3,7 @@ Gaussifier / MOAT (Mother Of All Transforms)
 
 This repository is definitely a work in progress, since there are quite fundamental concepts that need to be checked before this can be claimed to have any value.
 
-Anyway, the idea behind this transform is inspired by the procedure to remove disparate impact which has been presented in the literature and was implemented in another repository.
+Anyway, the idea behind this transform is inspired by the procedure to remove disparate impact which has been presented previously in the literature and was implemented in another repository.
 
 https://github.com/urban-eriksson/ml-datapreprocessing
 
