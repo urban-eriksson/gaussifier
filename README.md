@@ -13,6 +13,6 @@ The production data then gives a second distribution by comparing the cdf for th
 
 
 <p align="center"> 
-<img src="https://github.com/urban-eriksson/gaussifier/blob/master/images/gaussifier.png">
+<img src="https://github.com/urban-eriksson/gaussifier/blob/master/images/gaussifier1.png">
 </p>
 <p align="center"><b>Figure 1.</b> Self transformation of uniform distribution</p>
