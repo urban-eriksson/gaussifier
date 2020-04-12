@@ -14,7 +14,7 @@ https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html
 <p align="center"> 
 <img src="https://github.com/urban-eriksson/gaussifier/blob/master/images/gaussifier2.png">
 </p>
-<p align="center"><b>Figure 1.</b>Tranformation when datasets are equal x==xp</p>
+<p align="center"><b>Figure 1.</b>Tranformation when the x and xp datasets are equal</p>
 
 <p align="center"> 
 <img src="https://github.com/urban-eriksson/gaussifier/blob/master/images/gaussifier3.png">
