@@ -1,7 +1,7 @@
 # gaussifier
 Gaussifier / MOAT (Mother Of All Transforms)
 
-The idea behind this transform is inspired by the procedure to remove disparate impact which has been presented previously in the literature which has also been implemented in another repository of mine.
+The idea behind this transform is inspired by the procedure to remove disparate impact which has been presented previously in the literature which has also been implemented in another repository of mine. It could possibly be used in statistics as well as for preprocessing of data in ML.
 
 https://github.com/urban-eriksson/ml-datapreprocessing
 
@@ -14,10 +14,10 @@ https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html
 <p align="center"> 
 <img src="https://github.com/urban-eriksson/gaussifier/blob/master/images/gaussifier2.png">
 </p>
-<p align="center"><b>Figure 1.</b> Self transformation of uniform distribution</p>
+<p align="center"><b>Figure 1.</b>Tranformation when datasets are equal x==xp</p>
 
 <p align="center"> 
 <img src="https://github.com/urban-eriksson/gaussifier/blob/master/images/gaussifier3.png">
 </p>
-<p align="center"><b>Figure 1.</b> Self transformation of uniform distribution</p>
+<p align="center"><b>Figure 2.</b> Gaussifying data with uniform distibution</p>
 
